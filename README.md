@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on https://blog.abby.md (see the others on my repo list updates...)
+- 🔭 I’m currently working on https://github.com/m2np-Development-Group/m2npapp (see the others on my repo list updates...)
 - 🌱 I’m currently learning `Golang` and `Svelte`
 - 👯 I’m looking to collaborate on `Distrubuted KV`
 - 🤔 I’m looking for help with `Svelma`
