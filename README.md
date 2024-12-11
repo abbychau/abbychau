@@ -7,7 +7,7 @@
 Golang Dead Simple Timeseries Database
 A simple, efficient, and easy-to-use timeseries database for IoT and more.
 
-https://gtsdb-homepage.vercel.app/
+[GTSDB Homepage](https://gtsdb-homepage.vercel.app/)
 
 
 
