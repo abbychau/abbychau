@@ -20,7 +20,7 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 
 
 
-## Random Small or Old Stuffs
+## Random Small Stuffs
 
 - **[diesel_cli Extension](https://github.com/abbychau/diesel_cli_ext)**: contains different code generation (not rust codegen) cli tools that may help your life with Diesel easier (raw Rust)
 - **[Multiqueue 2](https://github.com/abbychau/multiqueue2)**: A fast mpmc queue with broadcast capabilities. Known as multiqueue too. (Rust, Tokio)
@@ -39,9 +39,9 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 
 
 ---
-:star2:	Plurk (My main SNS): **[@abbychau](https://www.plurk.com/abbychau)**
-:pencil2:	**[Blog](https://abby.md)**
-
+🔯	**[Plurk(SNS)](https://www.plurk.com/abbychau)**
+✏️	**[Blog](https://abby.md)**
+🕙 **[Old Archives](https://blog.abby.md/_meta/index.htm)**
 
 
 <br />
