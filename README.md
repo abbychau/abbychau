@@ -36,7 +36,7 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 - **[Queue Mounts](https://github.com/abbychau/queue-mounts)**: Queue Mounts is a hooking system on top of a built-in mqtt server. (Golang)
 - **[GTSmail](https://github.com/abbychau/gtsmail)**: A bare-minimum TCP-level SMTP server implementation in Go for a server to send and receive emails. (Golang)
 - **[AbbyMusic](https://github.com/abbychau/AbbyMusic)**: A soothing, light, small, music player.  (Rust, Svelte, Typescript)
-- **[Vertriqe Smart Contract](https://github.com/abbychau/vertriqe-smartcontract)**: A Solidity smart contract for tracking energy usage data from IoT devices with aggregation capabilities.
+- **[Vertriqe](https://github.com/abbychau/vertriqe-smartcontract)**: A Solidity smart contract for tracking energy usage data from IoT devices with aggregation capabilities.
 
 ---
 🔯	**[Plurk(SNS)](https://www.plurk.com/abbychau)**
