@@ -38,9 +38,11 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 - **[AbbyMusic](https://github.com/abbychau/AbbyMusic)**: A soothing, light, small, music player.  (Rust, Svelte, Typescript)
 
 
+---
+:star2:	Plurk (My main SNS): **[@abbychau](https://www.plurk.com/abbychau)**
+:pencil2:	**[Blog](https://abby.md)**
 
-- :pencil2:	**[Some Extracts from Plurk](https://abby.md)**
-- :star2:	Plurk (my main SNS): **[@abbychau](https://www.plurk.com/abbychau)**
+
 
 <br />
 <br />
