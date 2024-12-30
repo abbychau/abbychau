@@ -48,8 +48,6 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 
 <br />
 <br />
-<br />
-<br />
 
 <img src="https://abbychau.github.io/_resources/6c8706ded67b45578688005ca4d387af.png" />
 
