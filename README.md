@@ -44,7 +44,7 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 [ND1P Launcher](https://github.com/abbychau/No-Drawer-One-Page-Launcher)
 
 - :pencil2:	**[Some Extracts from Plurk](https://abby.md)**
-- :star2:	Plurk: **[@abbychau](https://www.plurk.com/abbychau)**
+- :star2:	Plurk (my main SNS): **[@abbychau](https://www.plurk.com/abbychau)**
 
 <br />
 <br />
@@ -56,5 +56,5 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-Mysteries:
+Mysteries of the SNS project:
 [M2NP](https://github.com/m2np-Development-Group/m2npapp)
