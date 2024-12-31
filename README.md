@@ -37,6 +37,7 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 - **[GTSmail](https://github.com/abbychau/gtsmail)**: A bare-minimum TCP-level SMTP server implementation in Go for a server to send and receive emails. (Golang)
 - **[AbbyMusic](https://github.com/abbychau/AbbyMusic)**: A soothing, light, small, music player.  (Rust, Svelte, Typescript)
 - **[Vertriqe](https://github.com/abbychau/vertriqe-smartcontract)**: A Solidity smart contract for tracking energy usage data from IoT devices with aggregation capabilities.
+- **[CPU Process Affinity Benchmark](https://github.com/abbychau/cpu-process-affinity)**: A Windows benchmarking tool for measuring performance differences between P-cores and E-cores on Intel hybrid architecture processors.
 
 ---
 🔯	**[Plurk(SNS)](https://www.plurk.com/abbychau)**
