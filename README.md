@@ -16,6 +16,7 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 - **[GTSDB](https://gtsdb.abby.md/)**: A simple, efficient, durable, and easy-to-use timeseries database for IoT and more. (Golang with no-dep)
 - **[GTSDB Admin](https://github.com/abbychau/gtsdb-admin)**: A modern web-based administration interface for GTSDB (Go Time Series Database). (Next.js, shadcn)
 - **[RHY26](https://abbychau.itch.io/rhy26)**: A rhythm game with 26 keys inspired by Keyboard Mania, featuring real-time MOD music decoding and multiple difficulty levels. (Godot, C#)
+- **[RHY26 Recorder](https://github.com/abbychau/rhy26-web)**: A web-based tool for recording key presses synchronized with music playback. Perfect for creating rhythm game charts or recording musical key sequences. (shadcn, Vercel, minio)
 - **[Interphase](https://github.com/abbychau/interphase)**: A modern HTTP, WebSocket, TCP, and MQTT client built with Next.js. Interphase provides an intuitive interface for testing and debugging various network protocols. (Next.js, shadcn)
 
 
