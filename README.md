@@ -11,7 +11,7 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 
 
 ## Recent Stuffs
-
+- **[simd-cmp](https://github.com/abbychau/simd-cmp)**: A file comparison utility similar to Linux/macOS cmp, but using SIMD instructions to accelerate, 4X performance. (Nightly Rust, SIMD)
 - **[PM2 Admin](https://github.com/abbychau/pm2-admin)**: A modern web interface for monitoring and managing PM2 processes with VS Code integration. (Next.js, shadcn)
 - **[GTSDB](https://gtsdb.abby.md/)**: A simple, efficient, durable, and easy-to-use timeseries database for IoT and more. (Golang with no-dep)
 - **[GTSDB Admin](https://github.com/abbychau/gtsdb-admin)**: A modern web-based administration interface for GTSDB (Go Time Series Database). (Next.js, shadcn)
