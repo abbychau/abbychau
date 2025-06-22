@@ -9,7 +9,7 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 
 [GTSDB Homepage](https://gtsdb.abby.md/)
 
-[Plork](https://m2np.com)
+[Plork](https://m2np.com) [Repo](https://github.com/abbychau/plork)
 
 ## Recent Stuffs
 - **[Oxiphant](https://github.com/abbychau/Oxiphant)**: A tiny PHP subset compiler written in Rust. This project compiles a subset of PHP to x86-64 assembly and binary.
