@@ -7,7 +7,7 @@
 Golang Dead Simple Timeseries Database
 A simple, efficient, and easy-to-use timeseries database for IoT and more.
 
-[GTSDB](https://gtsdb.abby.md/) & m2np.com
+[GTSDB](https://gtsdb.abby.md/) & [m2np.com](https://m2np.com)
 
 ## Awesome Infra that people love
 
