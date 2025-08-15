@@ -16,6 +16,7 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 - **[simd-cmp](https://github.com/abbychau/simd-cmp)**: A file comparison utility similar to Linux/macOS cmp, but using SIMD instructions to accelerate, 4X performance. (Nightly Rust, SIMD)
 
 ## Recent Stuffs
+- **[AbbyEVM & AbbyScript](https://github.com/abbychau/abbyevm)**: A simple Ethereum Virtual Machine implementation in Rust with a JavaScript-like programming language. 
 - **[mpmc-std](https://github.com/abbychau/mpmc-std)**: 1-file, LMAX disruptor-like rust fast-enough async MPMC lib, by using manual combination of memory orders.  Experimenting SIMD queue.
 - **[Oxiphant](https://github.com/abbychau/Oxiphant)**: A tiny PHP subset compiler written in Rust. This project compiles a subset of PHP to x86-64 assembly and binary.
 - **[ferricc](https://github.com/abbychau/ferricc)**: A small, educational C compiler implemented in Rust. 
