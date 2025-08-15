@@ -20,15 +20,10 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 - **[mpmc-std](https://github.com/abbychau/mpmc-std)**: 1-file, LMAX disruptor-like rust fast-enough async MPMC lib, by using manual combination of memory orders.  Experimenting SIMD queue.
 - **[Oxiphant](https://github.com/abbychau/Oxiphant)**: A tiny PHP subset compiler written in Rust. This project compiles a subset of PHP to x86-64 assembly and binary.
 - **[ferricc](https://github.com/abbychau/ferricc)**: A small, educational C compiler implemented in Rust. 
-- **[PM2 Admin](https://github.com/abbychau/pm2-admin)**: A modern web interface for monitoring and managing PM2 processes with VS Code integration. (Next.js, shadcn)
 - **[GTSDB Admin](https://github.com/abbychau/gtsdb-admin)**: A modern web-based administration interface for GTSDB (Go Time Series Database). (Next.js, shadcn)
-- **[RHY26](https://abbychau.itch.io/rhy26)**: A rhythm game with 26 keys inspired by Keyboard Mania, featuring real-time MOD music decoding and multiple difficulty levels. (Godot, C#)
-- **[RHY26 Recorder](https://github.com/abbychau/rhy26-web)**: A web-based tool for recording key presses synchronized with music playback. Perfect for creating rhythm game charts or recording musical key sequences. (shadcn, Vercel, minio)
-
-
 
 ## Random Small Stuffs
-
+- **[PM2 Admin](https://github.com/abbychau/pm2-admin)**: A modern web interface for monitoring and managing PM2 processes with VS Code integration. (Next.js, shadcn)
 - **[Interphase](https://github.com/abbychau/interphase)**: A modern HTTP, WebSocket, TCP, and MQTT client built with Next.js. Interphase provides an intuitive interface for testing and debugging various network protocols. (Next.js, shadcn)
 - **[diesel_cli Extension](https://github.com/abbychau/diesel_cli_ext)**: contains different code generation (not rust codegen) cli tools that may help your life with Diesel easier (raw Rust)
 - **[Multiqueue 2](https://github.com/abbychau/multiqueue2)**: A fast mpmc queue with broadcast capabilities. Known as multiqueue too. (Rust, Tokio)
@@ -46,6 +41,10 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 - **[AbbyMusic](https://github.com/abbychau/AbbyMusic)**: A soothing, light, small, music player.  (Rust, Svelte, Typescript)
 - **[Vertriqe](https://github.com/abbychau/vertriqe-smartcontract)**: A Solidity smart contract for tracking energy usage data from IoT devices with aggregation capabilities.(Hardhat, Solidity)
 - **[CPU Process Affinity Benchmark](https://github.com/abbychau/cpu-process-affinity)**: A Windows benchmarking tool for measuring performance differences between P-cores and E-cores on Intel hybrid architecture processors. (C++ 11)
+
+## Games
+- **[RHY26](https://abbychau.itch.io/rhy26)**: A rhythm game with 26 keys inspired by Keyboard Mania, featuring real-time MOD music decoding and multiple difficulty levels. (Godot, C#)
+- **[RHY26 Recorder](https://github.com/abbychau/rhy26-web)**: A web-based tool for recording key presses synchronized with music playback. Perfect for creating rhythm game charts or recording musical key sequences. (shadcn, Vercel, minio)
 
 ---
 🔯	**[Plurk(SNS)](https://www.plurk.com/abbychau)**
