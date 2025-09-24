@@ -15,7 +15,7 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 - **[MIST](https://mist.abby.md/)**: A lightweight, thread-safe SQL database engine with complete MySQL-compatible syntax. Built for speed, simplicity, and seamless integration with full referential integrity. Good for CI tests.
 - **[simd-cmp](https://github.com/abbychau/simd-cmp)**: A file comparison utility similar to Linux/macOS cmp, but using SIMD instructions to accelerate, 4X performance. (Nightly Rust, SIMD)
 - **[Multiqueue 2](https://github.com/abbychau/multiqueue2)**: A fast mpmc queue with broadcast capabilities. Known as multiqueue too. (Rust, Tokio)
-- 
+
 ## Recent Stuffs
 - **[AbbyEVM & AbbyScript](https://github.com/abbychau/abbyevm)**: A simple Ethereum Virtual Machine implementation in Rust with a JavaScript-like programming language. 
 - **[mpmc-std](https://github.com/abbychau/mpmc-std)**: 1-file, LMAX disruptor-like rust fast-enough async MPMC lib, by using manual combination of memory orders.  Experimenting SIMD queue.
