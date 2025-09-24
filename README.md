@@ -14,7 +14,8 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 - **[GTSDB](https://gtsdb.abby.md/)**: A simple, efficient, durable, and easy-to-use timeseries database for IoT and more. (Golang with no-dep)
 - **[MIST](https://mist.abby.md/)**: A lightweight, thread-safe SQL database engine with complete MySQL-compatible syntax. Built for speed, simplicity, and seamless integration with full referential integrity. Good for CI tests.
 - **[simd-cmp](https://github.com/abbychau/simd-cmp)**: A file comparison utility similar to Linux/macOS cmp, but using SIMD instructions to accelerate, 4X performance. (Nightly Rust, SIMD)
-
+- **[Multiqueue 2](https://github.com/abbychau/multiqueue2)**: A fast mpmc queue with broadcast capabilities. Known as multiqueue too. (Rust, Tokio)
+- 
 ## Recent Stuffs
 - **[AbbyEVM & AbbyScript](https://github.com/abbychau/abbyevm)**: A simple Ethereum Virtual Machine implementation in Rust with a JavaScript-like programming language. 
 - **[mpmc-std](https://github.com/abbychau/mpmc-std)**: 1-file, LMAX disruptor-like rust fast-enough async MPMC lib, by using manual combination of memory orders.  Experimenting SIMD queue.
@@ -26,7 +27,6 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 - **[PM2 Admin](https://github.com/abbychau/pm2-admin)**: A modern web interface for monitoring and managing PM2 processes with VS Code integration. (Next.js, shadcn)
 - **[Interphase](https://github.com/abbychau/interphase)**: A modern HTTP, WebSocket, TCP, and MQTT client built with Next.js. Interphase provides an intuitive interface for testing and debugging various network protocols. (Next.js, shadcn)
 - **[diesel_cli Extension](https://github.com/abbychau/diesel_cli_ext)**: contains different code generation (not rust codegen) cli tools that may help your life with Diesel easier (raw Rust)
-- **[Multiqueue 2](https://github.com/abbychau/multiqueue2)**: A fast mpmc queue with broadcast capabilities. Known as multiqueue too. (Rust, Tokio)
 - **[Svelma](https://github.com/c0bra/svelma)**: Bulma components for Svelte (Typescript, Js, Svelte)
 - **[joy2mouse](https://github.com/abbychau/joy2mouse)**: joystick to mouse implementation (raw Golang)
 - **[usizekv](https://github.com/abbychau/usize-kv)**: The fastest, 64-bit data-chunk only, one-to-many key-value storage. (raw Rust)
