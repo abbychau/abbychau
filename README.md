@@ -12,7 +12,7 @@ A simple, efficient, and easy-to-use timeseries database for IoT and more.
 ## Awesome Infra that people love
 
 - **[GTSDB](https://gtsdb.abby.md/)**: A simple, efficient, durable, and easy-to-use timeseries database for IoT and more. (Golang with no-dep)
-- **[MIST](https://mist.abby.md/)**: A lightweight, thread-safe SQL database engine with complete MySQL-compatible syntax. Built for speed, simplicity, and seamless integration with full referential integrity. Good for CI tests. (Golang with no system dep, WASM)
+- **[MIST](https://mist.abby.md/)**: A lightweight, thread-safe SQL database engine with complete **MySQL-compatible syntax**. Good for CI tests. (Golang with no system dep, WASM)
 - **[simd-cmp](https://github.com/abbychau/simd-cmp)**: A file comparison utility similar to Linux/macOS cmp, but using SIMD instructions to accelerate, 4X performance. (Nightly Rust, SIMD)
 - **[Multiqueue 2](https://github.com/abbychau/multiqueue2)**: A fast mpmc queue with broadcast capabilities. Known as multiqueue too. (Rust, Tokio)
 
