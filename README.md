@@ -1,68 +1,45 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abbychau&show_icons=true&hide_title=true" />
+<a href="https://abby.md">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img alt="a/ abby.md: Abby Chau, software engineer in Tokyo" src="assets/banner-light.svg" width="100%">
+  </picture>
+</a>
 
+Software engineer in Tokyo, via Hong Kong. I've worked on payment infrastructure, financial systems, distributed storage and mobile apps. I like the lower layers (databases, queues, language runtimes) and making them useful to people. Rust and Go, often. Basketball and music. Always another idea.
 
+**[abby.md](https://abby.md)** · [Field notes](https://ghost.abby.md) · [LinkedIn](https://www.linkedin.com/in/zkizabby/) · [Plurk](https://www.plurk.com/abbychau) · [Instagram](https://www.instagram.com/abbychau2000/)
 
-**WORKING ON GTSDB and M2NP**
+### Selected work
 
-Golang Dead Simple Timeseries Database
-A simple, efficient, and easy-to-use timeseries database for IoT and more.
+| | Project | Stack | What it is |
+|:-:|---|---|---|
+| 01 | **[GTSDB](https://github.com/abbychau/gtsdb)** · [site](https://gtsdb.abby.md/) | Go | Time-series database where the write-ahead log *is* the storage engine. Built for IoT and the edge. |
+| 02 | **[Diesel CLI Ext](https://github.com/abbychau/diesel_cli_ext)** | Rust | Generates Rust models and Protocol Buffers from your database schema. |
+| 03 | **[MultiQueue2](https://github.com/abbychau/multiqueue2)** | Rust | Maintained MultiQueue fork: bounded MPMC queues, broadcast, async. |
+| 04 | **[MIST](https://github.com/abbychau/mist)** · [site](https://mist.abby.md/) | Go | In-memory SQL engine with MySQL-compatible syntax. Handy for CI tests; runs in WASM. |
+| 05 | **[simd-cmp](https://github.com/abbychau/simd-cmp)** | Rust | `cmp`, but with portable SIMD. About 4× faster (nightly). |
+| 06 | **[RingZero](https://github.com/abbychau/ringzero)** · [site](https://ringzero.abby.md/) | Node.js | Terminal coding-agent harness with a zero-dependency kernel and context compaction. |
 
-[GTSDB](https://gtsdb.abby.md/) & [m2np.com](https://m2np.com)
+### Lately
 
-## Awesome Infra that people love
+- **[mpmc-std](https://github.com/abbychau/mpmc-std)**: single-file, disruptor-style async MPMC queue built on hand-picked memory orderings (Rust)
+- **[AbbyEVM & AbbyScript](https://github.com/abbychau/abbyevm)**: a small EVM with a JavaScript-like language (Rust)
+- **[Oxiphant](https://github.com/abbychau/Oxiphant)** & **[ferricc](https://github.com/abbychau/ferricc)**: tiny compilers for a PHP subset and for C, emitting x86-64 (Rust)
+- **[AbbyTerm](https://github.com/abbychau/abbyterm)**: a decent terminal emulator for Linux
 
-- **[GTSDB](https://abbychau.github.io/gtsdb-homepage/)**: A simple, efficient, durable, and easy-to-use timeseries database for IoT and more. (Golang with no-dep)
-- **[MIST](https://mist.abby.md/)**: A lightweight, thread-safe SQL database engine with complete **MySQL-compatible syntax**. Good for CI tests. (Golang with no system dep, WASM)
-- **[simd-cmp](https://github.com/abbychau/simd-cmp)**: A file comparison utility similar to Linux/macOS cmp, but using SIMD instructions to accelerate, 4X performance. (Nightly Rust, SIMD)
-- **[Multiqueue 2](https://github.com/abbychau/multiqueue2)**: A fast mpmc queue with broadcast capabilities. Known as multiqueue too. (Rust, Tokio)
+### Outside the usual stack
 
-## Recent Stuffs
-- **[RingZero](https://ringzero.abby.md/)**: LLM Harness - Rank 1 in token-efficiency & Terminal Bench 2.0 FOR DeepSeek V4
-- **[AbbyTerm](https://github.com/abbychau/abbyterm)**: A decent terminal emulator for Linux.
-- **[AbbyEVM & AbbyScript](https://github.com/abbychau/abbyevm)**: A simple Ethereum Virtual Machine implementation in Rust with a JavaScript-like programming language. 
-- **[mpmc-std](https://github.com/abbychau/mpmc-std)**: 1-file, LMAX disruptor-like rust fast-enough async MPMC lib, by using manual combination of memory orders.  Experimenting SIMD queue.
-- **[Oxiphant](https://github.com/abbychau/Oxiphant)**: A tiny PHP subset compiler written in Rust. This project compiles a subset of PHP to x86-64 assembly and binary.
-- **[ferricc](https://github.com/abbychau/ferricc)**: A small, educational C compiler implemented in Rust. 
-- **[GTSDB Admin](https://github.com/abbychau/gtsdb-admin)**: A modern web-based administration interface for GTSDB (Go Time Series Database). (Next.js, shadcn)
+- **[Undisclosed Cyberpunk City](https://cyberpunk.abby.md/)**: an ongoing game. The dev archive lives here.
+- **[RHY26](https://abbychau.itch.io/rhy26)**: a 26-key rhythm game with real-time MOD decoding (Godot, C#), plus a [chart recorder](https://github.com/abbychau/rhy26-web)
 
-## Random Small Stuffs
-- **[PM2 Admin](https://github.com/abbychau/pm2-admin)**: A modern web interface for monitoring and managing PM2 processes with VS Code integration. (Next.js, shadcn)
-- **[Interphase](https://github.com/abbychau/interphase)**: A modern HTTP, WebSocket, TCP, and MQTT client built with Next.js. Interphase provides an intuitive interface for testing and debugging various network protocols. (Next.js, shadcn)
-- **[diesel_cli Extension](https://github.com/abbychau/diesel_cli_ext)**: contains different code generation (not rust codegen) cli tools that may help your life with Diesel easier (raw Rust)
-- **[Svelma](https://github.com/c0bra/svelma)**: Bulma components for Svelte (Typescript, Js, Svelte)
-- **[joy2mouse](https://github.com/abbychau/joy2mouse)**: joystick to mouse implementation (raw Golang)
-- **[usizekv](https://github.com/abbychau/usize-kv)**: The fastest, 64-bit data-chunk only, one-to-many key-value storage. (raw Rust)
-- **[BMS-Dropper](https://github.com/abbychau/BMS-Dropper)**: A BMS(music game format) Player with 3D gravity enabled note visualization. (Unity, C#)
-- **[ND1P Launcher](https://github.com/abbychau/No-Drawer-One-Page-Launcher)**: An efficient Android Launcher for large screen devices. (raw Kotlin)
-- **[Tiny HTML Editor](https://github.com/abbychau/tiny-html-editor)**: A WYSIWYG web editor. Electron wrapper of TinyMCE 5. (Electron, JS)
-- **[Redis Admin](https://github.com/abbychau/RedisAdmin)**: A lightweight Windows Forms application for managing Redis databases. (C#)
-- **[Forum Browser](https://github.com/abbychau/ForumBrowser)**: A streamlined Windows browser built with WebView2 technology, offering a native Windows experience with minimalist design. (C#)
-- **[Smiecha](https://github.com/abbychau/smiecha)**: A real-time collaborative drawing chat application. (Ruby, WebSockets)
-- **[Queue Mounts](https://github.com/abbychau/queue-mounts)**: Queue Mounts is a hooking system on top of a built-in mqtt server. (Golang)
-- **[GTSmail](https://github.com/abbychau/gtsmail)**: A bare-minimum TCP-level SMTP server implementation in Go for a server to send and receive emails. (Golang)
-- **[AbbyMusic](https://github.com/abbychau/AbbyMusic)**: A soothing, light, small, music player.  (Rust, Svelte, Typescript)
-- **[Vertriqe](https://github.com/abbychau/vertriqe-smartcontract)**: A Solidity smart contract for tracking energy usage data from IoT devices with aggregation capabilities.(Hardhat, Solidity)
-- **[CPU Process Affinity Benchmark](https://github.com/abbychau/cpu-process-affinity)**: A Windows benchmarking tool for measuring performance differences between P-cores and E-cores on Intel hybrid architecture processors. (C++ 11)
+<details>
+<summary><b>More projects</b></summary>
 
-## Games
-- **[RHY26](https://abbychau.itch.io/rhy26)**: A rhythm game with 26 keys inspired by Keyboard Mania, featuring real-time MOD music decoding and multiple difficulty levels. (Godot, C#)
-- **[RHY26 Recorder](https://github.com/abbychau/rhy26-web)**: A web-based tool for recording key presses synchronized with music playback. Perfect for creating rhythm game charts or recording musical key sequences. (shadcn, Vercel, minio)
+- **Infra & backend**: [GTSDB Admin](https://github.com/abbychau/gtsdb-admin) · [Queue Mounts](https://github.com/abbychau/queue-mounts) · [GTSmail](https://github.com/abbychau/gtsmail) · [usize-kv](https://github.com/abbychau/usize-kv) · [Vertriqe](https://github.com/abbychau/vertriqe-smartcontract)
+- **Dev tools**: [PM2 Admin](https://github.com/abbychau/pm2-admin) · [Interphase](https://github.com/abbychau/interphase) · [Redis Admin](https://github.com/abbychau/RedisAdmin) · [CPU Affinity Benchmark](https://github.com/abbychau/cpu-process-affinity)
+- **Apps & UI**: [AbbyMusic](https://github.com/abbychau/AbbyMusic) · [Forum Browser](https://github.com/abbychau/ForumBrowser) · [Tiny HTML Editor](https://github.com/abbychau/tiny-html-editor) · [ND1P Launcher](https://github.com/abbychau/No-Drawer-One-Page-Launcher) · [Svelma](https://github.com/c0bra/svelma) · [Smiecha](https://github.com/abbychau/smiecha)
+- **Play**: [BMS-Dropper](https://github.com/abbychau/BMS-Dropper) · [joy2mouse](https://github.com/abbychau/joy2mouse)
 
----
-🔯	**[Plurk(SNS)](https://www.plurk.com/abbychau)**
-✏️	**[Blog](https://abby.md)**
-🕙 **[Old Archives](https://blog.abby.md/_meta/index.htm)**
+</details>
 
-
-<br />
-<br />
-
-<img src="https://images.plurk.com/lfYRPZ8iITn4jrENDmF66.jpg" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br />
-TESTING a long readme for profile.
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-
+<sub>More on [abby.md](https://abby.md) · [old archives](https://blog.abby.md/_meta/index.htm)</sub>

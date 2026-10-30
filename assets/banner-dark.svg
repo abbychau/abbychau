@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="a/ abby.md — Abby Chau, software engineer in Tokyo">
+  <rect width="1200" height="300" fill="#0d1117"/>
+  <text x="64" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="64" font-weight="700" fill="#ece9e1">a<tspan fill="#ff7a4d">/</tspan></text>
+  <text x="170" y="132" font-family="Georgia, 'Times New Roman', serif" font-size="56" fill="#ece9e1">abby.md</text>
+  <text x="66" y="186" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic" fill="#ece9e1">Software, writing, and a cyberpunk city.</text>
+  <text x="66" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#8b949e" letter-spacing="1">ABBY CHAU · TOKYO, VIA HONG KONG · UTC+09:00</text>
+  <line x1="64" y1="262" x2="1136" y2="262" stroke="#30363d" stroke-width="1"/>
+  
+    <path d="M832 122 L948 178" stroke="#30363d" stroke-width="1.5" stroke-dasharray="4 6" fill="none"/>
+    <path d="M972 178 L1088 122" stroke="#30363d" stroke-width="1.5" stroke-dasharray="4 6" fill="none"/>
+    <path d="M832 110 L1088 110" stroke="#30363d" stroke-width="1.5" stroke-dasharray="2 8" fill="none"/>
+  <rect x="808" y="98" width="24" height="24" rx="3" fill="#0d1117" stroke="#ece9e1" stroke-width="1.5"/><text x="820" y="150" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e" letter-spacing="1">gatehouse</text><rect x="948" y="178" width="24" height="24" rx="3" fill="#0d1117" stroke="#ece9e1" stroke-width="1.5"/><text x="960" y="230" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e" letter-spacing="1">sorting</text><rect x="1088" y="98" width="24" height="24" rx="3" fill="#0d1117" stroke="#ece9e1" stroke-width="1.5"/><text x="1100" y="150" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e" letter-spacing="1">archive</text><circle cx="960" cy="190" r="4" fill="#ff7a4d"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+</svg>
